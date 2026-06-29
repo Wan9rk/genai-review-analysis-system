@@ -2,7 +2,9 @@
 
 推荐文件：
 1. ChatGPT reviews [DAILY UPDATED]
+   https://www.kaggle.com/datasets/ashishkumarak/chatgpt-reviews-daily-updated
 2. The Generative AI Ecosystem: 50K User Reviews 2026
+   https://www.kaggle.com/datasets/jahnavikachhia23/the-generative-ai-ecosystem-50k-user-reviews-2026
 
 程序会自动识别常见字段名，例如：
 - App / app / app_name
